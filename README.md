@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TODO in Flask
 **WORK IN PROGRESS**  
 Skeleton of simple ToDo app. Written in Python (3.9+) using Flask and Bootstrap. It can be used as a starting point to create something more advanced.  
@@ -95,3 +96,4 @@ All tests are in a subfolder `tests` and configured to use **Pytest** suite, whi
 - [ ] **tasks filtering**
 - [ ] **optional email notification**
 - [ ] **supervisor account**
+=======
